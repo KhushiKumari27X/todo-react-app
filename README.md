@@ -8,7 +8,7 @@ A simple and responsive **To-Do application** built using React. This project al
  https://khushikumari27x.github.io/todo-react-app/
 
 ---
-## 📸 Preview
+##  Preview
 
 ![App Screenshot](https://raw.githubusercontent.com/KhushiKumari27X/todo-react-app/main/ui.png)
 
