@@ -25,7 +25,10 @@ This application provides a clean interface for managing tasks. It demonstrates 
 - `src/` → Contains all React components  
 - `public/` → Static files and HTML  
 - `App.js` → Main application logic  
-- `components/` → Individual UI components  
+- `components/` → Individual UI components
+
+## Preview
+![App Screenshot](./ui.png)
 
 ## How to Run Locally
 
