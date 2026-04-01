@@ -8,7 +8,11 @@ A simple and responsive **To-Do application** built using React. This project al
  https://khushikumari27x.github.io/todo-react-app/
 
 ---
+## 📸 Preview
 
+![App Screenshot](https://raw.githubusercontent.com/KhushiKumari27X/todo-react-app/main/ui.png)
+
+---
 ##  Overview
 
 This application provides a clean and intuitive interface for managing tasks. It demonstrates core React concepts such as **components, props, state management, and local storage handling**.
