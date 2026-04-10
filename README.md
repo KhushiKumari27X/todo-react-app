@@ -38,5 +38,4 @@ This application provides a clean and intuitive interface for managing tasks. It
 
 ---
 
-##  Project Structure
 
